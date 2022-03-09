@@ -1,6 +1,6 @@
 package main_package;
 
-public class test {
+abstract class test {
     test() {
         System.out.println( "This is test (CLASS)." ) ;
     }//end method
